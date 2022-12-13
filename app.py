@@ -47,7 +47,7 @@ def menu():
    email = input(f'{white}[?] {green}Your Gmail:{white}')
    print('\n')
    print(f'{red}🚨 NOTE: \033[31m Don\'t use your gmail account password.You need to use App Password.For generate App Password visit bellow link and read the instruction: {white}')
-   print('🌐 https://wwww.frabbi.cf/iwjsjdk92js')
+   print('🌐 https://fh-rabbi.github.io/Ghost-Mailer')
    print('\n')
    password = getpass(f'[?] {green}Your Password:{white}')
    name = input(f'[?] {green}Your Name:{white}')
