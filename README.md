@@ -29,7 +29,7 @@ Ghost-Mailer is a python script for Gmail-Bombing.By using this script you can d
 
 ## NOTE
 > You need to generate app-password in your gmail-account.For generate app password read the bellow instruction:
-* https://github.io/fhrabbi/isisieiu
+* https://fh-rabbi.github.io/Ghost-Mailer
 
 ## WARNING
 
